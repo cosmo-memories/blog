@@ -22,3 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+baseurl: /blog
+# url: "cosmo-memories.github.io"
+# permalink: /:title 
