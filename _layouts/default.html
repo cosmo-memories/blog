@@ -5,8 +5,22 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href={{"/assets/css/styles.css" | relative_url }}>
   </head>
+
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    <div class="wrapper">
+
+      <div id="title">
+        <h1 class="left"><b>COSMO MEMORIES</b></h1>
+        <h1 class="right"><a href="https://cosmo-memories.github.io/">HOME</a><b> // </b>
+                          <a href="https://cosmo-memories.github.io/math/">MATH</a><b> // </b>
+                          <a href="https://github.com/cosmo-memories/">GITHUB</a></h1>
+        <h2>MEMORIA : A BLOG</h2>
+        <hr>
+        <div class="nav">{% include navigation.html %}</div>
+        <hr>
+      </div>
+
+      {{ content }}
+    </div>
   </body>
 </html>

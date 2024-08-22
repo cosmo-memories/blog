@@ -1,6 +1,6 @@
 ---
-title: Cosmo's Memories - About
+title: "Memoria : About"
 ---
-# About Me
+<!-- # About Me -->
 
-there's no layout yet i'm getting there give me time
+I'm Cosmo. I do stuff online sometimes. This whole thing is a WIP. Please do not perceive me yet.

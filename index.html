@@ -1,19 +1,23 @@
 ---
-title: Cosmo's Memories
+title: "Memoria : A Blog"
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
 
-I'm working on it please don't look at me
+<p>
+  Allegedly some kind of online "Web Log" where I post about games and code and things. Currently a work in progress.
+</p>
 
-<h1>Latest Posts</h1>
+<hr>
 
+<h2>Latest Posts</h2>
 <ul>
   {% for post in site.posts %}
-  ---
-    <li>
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  ---
+      <h2 id="post-head"><b>&#8226; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.name }}</a></h2> // {{ post.date | date_to_string }} 
+      // Tags: </b>
+      {% for tag in site.tags %}
+        {{ tag[0] }}
+      {% endfor %}
+      <!-- {{ post.excerpt }} -->
   {% endfor %}
 </ul>
+
+<hr>
