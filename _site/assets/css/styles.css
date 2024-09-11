@@ -29,7 +29,7 @@ a {
 body {
   padding: 0px 0 20px 0px;
   margin: 0px;
-  font: 14px Helvetica, Arial, sans-serif;
+  font: 15px Helvetica, Arial, sans-serif;
   color: #f0e7d5;
   font-weight: normal;
   background: #282829;
@@ -37,7 +37,8 @@ body {
   background: linear-gradient(#222227, #0b0b0c); }
 
 #post-head {
-  display: inline; }
+  display: inline;
+  font: 17px Helvetica, Arial, sans-serif; }
 
 #post-mid {
   width: 50%;
