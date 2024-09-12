@@ -13,10 +13,10 @@ title: "Memoria : A Blog"
   {% for post in site.posts %}
     <p>
       <h2 id="post-head"><b>&#8226; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.name }}</a></h2> // {{ post.date | date_to_string }} 
-      // Tags: </b>
+      <!-- // Tags: </b>
       {% for tag in site.tags %}
         {{ tag[0] }}
-      {% endfor %}
+      {% endfor %} -->
       <!-- {{ post.excerpt }} -->
     </p>
   {% endfor %}
