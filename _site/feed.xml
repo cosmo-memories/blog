@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2024-09-12T23:50:39+12:00</updated><id>http://localhost:4000/blog/feed.xml</id><entry><title type="html">Memoria : Hello World: This is a Blog and I’m Making a Post</title><link href="http://localhost:4000/blog/2024/09/10/second.html" rel="alternate" type="text/html" title="Memoria : Hello World: This is a Blog and I’m Making a Post" /><published>2024-09-10T00:00:00+12:00</published><updated>2024-09-10T00:00:00+12:00</updated><id>http://localhost:4000/blog/2024/09/10/second</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/10/second.html"><![CDATA[<p>I want to see how the page layout handles slightly longer titles.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2024-09-23T15:14:54+12:00</updated><id>http://localhost:4000/blog/feed.xml</id><entry><title type="html">Memoria : New Time Waster Unlocked</title><link href="http://localhost:4000/blog/2024/09/23/plans.html" rel="alternate" type="text/html" title="Memoria : New Time Waster Unlocked" /><published>2024-09-23T00:00:00+12:00</published><updated>2024-09-23T00:00:00+12:00</updated><id>http://localhost:4000/blog/2024/09/23/plans</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/23/plans.html"><![CDATA[<p>I think I could probably spend the entire rest of my life fiddling around with CSS only to revert everything in the end anyway and have nothing to show for my efforts.</p>
+
+<p>At this stage I have very little experience with Actual Practical Web Design that needs to be useable by humans, so one of the things on the agenda for the coming months is learning how to build things that are functional on mobile devices as well as desktop. You may notice the layout on my homepage currently doesn’t work on smaller screens at all. Please don’t look at my commit history. I will cry. I’m working on it.</p>
+
+<p>I have also started learning Unity and C# on the side. I will definitely be sinking a lot more time into this and am very eager to do some game dev diary posts once I finish the tutorial projects I’m currently working on. I also miss Java! I have a growing list of small random projects I want to do. Maybe I’ll drop everything and do that instead! Who knows.</p>
+
+<p>Anyway, the current site update roadmap is as follows:</p>
+
+<ul>
+  <li>
+    <p>Daily updates to the math reference page; continuing to add basic definitions, concepts, etc. These will be expanded later with explanations, proofs, and examples.</p>
+  </li>
+  <li>
+    <p>Blog updates at least once a week. Hopefully this will help spur me to actually have things to write about.</p>
+  </li>
+  <li>
+    <p>Regular screwing around with layouts as I speedrun patching the holes in my web dev fundamentals.</p>
+  </li>
+  <li>
+    <p>Proper VPS hosting and custom domain(s) in ~3 months, if all goes to plan.</p>
+  </li>
+</ul>]]></content><author><name>Cosmo</name></author><category term="dev" /><summary type="html"><![CDATA[I think I could probably spend the entire rest of my life fiddling around with CSS only to revert everything in the end anyway and have nothing to show for my efforts.]]></summary></entry><entry><title type="html">Memoria : Hello World: This is a Blog and I’m Making a Post</title><link href="http://localhost:4000/blog/2024/09/10/second.html" rel="alternate" type="text/html" title="Memoria : Hello World: This is a Blog and I’m Making a Post" /><published>2024-09-10T00:00:00+12:00</published><updated>2024-09-10T00:00:00+12:00</updated><id>http://localhost:4000/blog/2024/09/10/second</id><content type="html" xml:base="http://localhost:4000/blog/2024/09/10/second.html"><![CDATA[<p>I want to see how the page layout handles slightly longer titles.</p>
 
 <p>I’ve been very busy (and exhausted) the past few weeks so I haven’t had time to get this thing going like I wanted. I still need to add tag pages, fill out the About Me information, and actually finish the layout. I want to sink my teeth into some gamedev stuff for fun once I’ve relaxed a little, so that’ll give me something to post about, I suppose. I will also be (at some point) setting up some proper hosting with a custom domain so that I’m not tied to this Github URL.</p>
 
