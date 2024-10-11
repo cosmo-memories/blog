@@ -11,8 +11,8 @@ layout: default
      - by {{ author.name}}
   {% endif %} -->
   <b>&nbsp; // &nbsp; Tags: </b>
-  {% for tag in site.tags %}
-    {{ tag[0] }}
+  {% for topic in page.tags %}
+    {{ topic }}{% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 
 <hr id="post-mid">
